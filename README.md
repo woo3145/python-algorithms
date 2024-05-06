@@ -9,3 +9,4 @@
 - [Graph(dfs, bfs)](./data_structures/graph.py)
 - [Dictionary](./data_structures/dict.py)
 - [UnionFind](./data_structures/union_find.py)
+- [Trie](./data_structures/trie.py)
