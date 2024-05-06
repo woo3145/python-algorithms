@@ -29,3 +29,11 @@ def bfs(graph, start):
             if neighbor not in visited:
                 visited.add(neighbor)
                 queue.append(neighbor)
+
+
+print("Graph DFS:", end=" ")
+dfs(graph, 'A')  # A B D C
+print()
+print("Graph BFS:", end=" ")
+bfs(graph, 'A')  # A B C D
+print()
