@@ -10,3 +10,4 @@
 - [Dictionary](./data_structures/dict.py)
 - [UnionFind](./data_structures/union_find.py)
 - [Trie](./data_structures/trie.py)
+- [SegmentTree](./data_structures/segment_tree.py)
