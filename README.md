@@ -2,4 +2,5 @@
 
 ### Data Structure
 
-- [Array](./basic/array.py)
+- [Array](./data_structures/array.py)
+- [Deque](./data_structures/deque.py)
