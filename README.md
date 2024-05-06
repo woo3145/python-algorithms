@@ -7,3 +7,4 @@
 - [PriorityQueue](./data_structures/priority_queue.py)
 - [Tree](./data_structures/tree.py)
 - [Graph(dfs, bfs)](./data_structures/graph.py)
+- [Dictionary](./data_structures/dict.py)
