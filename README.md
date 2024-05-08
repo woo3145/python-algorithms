@@ -17,6 +17,6 @@
 - Sorting Algorithms
 
   - Quick Sort
-  - Merge Sort
+  - [Merge Sort](./algorithms/sorting/merge_sort.py)
   - Heap Sort
   - [Bubble Sort](./algorithms/sorting/bubble_sort.py)

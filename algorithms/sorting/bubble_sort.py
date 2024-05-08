@@ -1,4 +1,10 @@
 def bubble_sort(arr):
+    """
+    버블 정렬을 사용하여 리스트를 정렬
+
+    시간 복잡도(Time Complexity): O(n^2)
+    공간 복잡도(Space Complexity): O(1)
+    """
     n = len(arr)
     for i in range(n):
         # 내부 루프에서 교환이 일어나지 않으면 정렬이 완료된 것으로 간주
