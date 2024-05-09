@@ -14,6 +14,8 @@
 
 ### Algorithms
 
+- [frequently_libs](./algorithms/frequently_libs.py)
+
 - Sorting Algorithms
 
   - Quick Sort
