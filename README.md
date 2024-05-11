@@ -20,5 +20,10 @@
 
   - [Quick Sort](./algorithms/sorting/quick_sort.py)
   - [Merge Sort](./algorithms/sorting/merge_sort.py)
-  - Heap Sort
   - [Bubble Sort](./algorithms/sorting/bubble_sort.py)
+
+- Dynamic Programming
+
+  - Knapsack Problem
+  - [Longest Common Subsequence](./algorithms/dynamic/lcs.py)
+  - Longest Increasing Subsequence
